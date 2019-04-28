@@ -3,12 +3,12 @@ permalink: /about/
 title: "About"
 ---
 
-Just another college student away from and sick of hostel food. Trying to learn how to cook and experimenting with recipes. My interests lie in quite a few things. Ranging from all geeky physics, math and to the artsy stuff like painting, poetry and well cooking. 
+Just another college student away from home and sick of hostel food. Trying to learn how to cook and experimenting with recipes. My interests lie in quite a few things. Ranging from all geeky physics, math and to the artsy stuff like painting, poetry and well cooking. 
  
 
 Food:
 
-From not being alloweed in the kitchen after burning myself while making tea to now cooking meals for two in just few months. I think I have come quite some way but I still a long way to go.
+From not being allowed in the kitchen after burning myself while making tea to now cooking meals for two in just few months. I think I have come quite some way but I still have a long way to go. I will try to write about my successes and failures of my recipes over here.
 
 
 My paintings:
@@ -23,4 +23,4 @@ For me it is just a way to express my feelings when i feel low. You feel find me
 
 Weight loss:
 
-I currently weigh 87kgs. I found myself weighing 90kgs and a horrible health. I have started going to gym from March 2019 and i will try to write about how it goes.
+After realizing how bad my health has gotten cause of my weight I have started going to gym regularly and have been trying to  live a healthier life. I will try to document it as much as I can.
