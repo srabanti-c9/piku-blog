@@ -18,7 +18,7 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   Painting , poetries, food, weight loss journey, mental health and life.
 baseurl: /piku-blog
-url: https://srabanti-c9.github.io
+url: http://srabanti.cf
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: mint
