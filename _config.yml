@@ -16,7 +16,7 @@
 title: Yash's Piku's Blog 
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  My blog, will write what I feel like. MLMR.
+  Painting , poetries, food, weight loss journey, mental health and life.
 baseurl: /piku-blog
 url: https://srabanti-c9.github.io
 twitter_username: username
@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Srabanti Chakrabarty"
   avatar : "/assets/images/sexy-me.jpeg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "paintings, poetries, food, weight loss and life."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -85,7 +85,7 @@ footer:
       url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/poetry.and.paints"
 
 defaults:
   # _posts
