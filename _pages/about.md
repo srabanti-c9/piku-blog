@@ -24,3 +24,5 @@ For me it is just a way to express my feelings when i feel low. You feel find me
 Weight loss:
 
 After realizing how bad my health has gotten cause of my weight I have started going to gym regularly and have been trying to  live a healthier life. I will try to document it as much as I can.
+
+![Img](/assets/images/IMG-20190428-132525 "Img"){:class="img-responsive"}
