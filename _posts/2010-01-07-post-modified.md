@@ -9,4 +9,4 @@ tags:
 ---
 
 First post by my man who is awesome.
-![Img](/home/yash/Projects_Local/piku-blog/assets/images/sexy-me.jpeg  "Img")
+![Img](/assets/images/sexy-me.jpeg  "Img"){:class="img-responsive"}
