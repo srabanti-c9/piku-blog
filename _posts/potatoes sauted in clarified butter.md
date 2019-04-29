@@ -14,4 +14,4 @@ tags:
   I don't really have a proper name for this recipe. I grew up eating this on those rare sunday breakfast when mom decided to make this. It usually used to occur after a week of begging and whining for this. My sister, who hates potatoes, would fight with me over who got more of it. 
 
 
-![Img](IMG_20190429_085551.jpg  "Img"){:class="img-responsive"}
+![Img](/assets/images/IMG_20190429_085551.jpg  "Img"){:class="img-responsive"}
