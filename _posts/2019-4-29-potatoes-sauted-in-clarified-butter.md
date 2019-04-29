@@ -1,9 +1,12 @@
 ---
-title: "Test first post"
+title: "Potatoes sauted in clarified butter(ghee) and seasoned with salt and paper."
 categories:
-  - Blog
+  - Recipes
 tags:
-  - Post Formats
+  - Food
+  - Breakfast
+  - Potatoes
+  - Recipies
 ---
 
 
