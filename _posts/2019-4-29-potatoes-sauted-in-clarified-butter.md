@@ -34,4 +34,4 @@ Ingredients:
 
 Tastes great with toast.
 
-![Img](/assets/images/IMG_20190429_085956  "Img"){:class="img-responsive"}
+![Img](/assets/images/IMG_20190429_085956.jpg  "Img"){:class="img-responsive"}
