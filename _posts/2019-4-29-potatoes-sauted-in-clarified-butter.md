@@ -1,15 +1,11 @@
 ---
-title: "Potatoes sauted in clarified butter(ghee) and seasoned with salt and paper."
+title: "Test first post"
 categories:
-  - Recipies
+  - Blog
 tags:
-  - Recipes
-  - Potatoes
-  - Breakfast 
-  - Childhood memories
-  - Experiments
-  - Cooking
- ---
+  - Post Formats
+---
+
 
 Potatoes sauted in clarified butter(ghee) and seasoned with salt and paper.
 
