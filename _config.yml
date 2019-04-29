@@ -69,7 +69,7 @@ author:
       url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/pikus_blog"
 
 footer:
   links:
@@ -78,7 +78,7 @@ footer:
       url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/poetry.and.paints"
+      url: "https://instagram.com/pikus_blog"
 
 defaults:
   # _posts
