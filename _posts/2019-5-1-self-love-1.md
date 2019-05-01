@@ -8,18 +8,24 @@ tags:
 
 ---
 
+## Growing up
 
 I have beenn struggling with body image ever since I remember. Growing up in South Korea I was bullied cause of my looks, I was teased cause of my skin color, made fun of  my big nose, i was totally isolated by my classmates in the korean play school.
 
+
 ![Img](/assets/images/1796554_446207605512427_1569563918_n.jpg  "Img"){:class="img-responsive"}
+
+
 ![Img](/assets/images/18033361_1036582023141646_6185210026810917044_n.jpg  "Img"){:class="img-responsive"}
+
 
  Things had improved for me when I changed my school to an international one. But I was always this dark Indian kid. I had no friends growing up I was always this wanted foreigner in the housing complex I lived in. The only time i felt like myself was when I was busy with the computer or in my piano class. I was the youngest student there and all the elder students adored me. I still remember my piano teacher, I don't remember her name but I remember how she looked, how much she loved me and I still have her two teddy bears that she gifted me on my last day of her class before I returnred to India.
 ![Img](/assets/images/10603362_543320639134456_1106143467403583185_n.jpg  "Img"){:class="img-responsive"}
 ![Img](/assets/images/1959290_446261842173670_1527204292_n.jpg  "Img"){:class="img-responsive"}
 
 
-Returning to India
+## Returning to India
+
 
 After coming back I was isolated again for my poor hindi and a blend american and korean accent when it came to speaking in English. I was the weird one here. I started gaining weight for some reason despite all the activities I used to do. Relationship with my parents deteoroited. My mom started body shaming me from around when I was 9. Things were going south for  me. People made fun of me. My names were written on the ealls with charcoal, the kids abused me, calling me fat, mad, idiot and what not. 
 
