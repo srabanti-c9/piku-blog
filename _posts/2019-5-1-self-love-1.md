@@ -11,11 +11,11 @@ tags:
 
 I have beenn struggling with body image ever since I remember. Growing up in South Korea I was bullied cause of my looks, I was teased cause of my skin color, made fun of  my big nose, i was totally isolated by my classmates in the korean play school.
 
-![Img](/assets/images/1796554-446207605512427-1569563918_n.jpg  "Img"){:class="img-responsive"}
-![Img](/assets/images/18033361-1036582023141646-6185210026810917044-n.jpg  "Img"){:class="img-responsive"}
+![Img](/assets/images/1796554_446207605512427_1569563918-n.jpg  "Img"){:class="img-responsive"}
+![Img](/assets/images/18033361_1036582023141646_6185210026810917044_n.jpg  "Img"){:class="img-responsive"}
 
  Things had improved for me when I changed my school to an international one. But I was always this dark Indian kid. I had no friends growing up I was always this wanted foreigner in the housing complex I lived in. The only time i felt like myself was when I was busy with the computer or in my piano class. I was the youngest student there and all the elder students adored me. I still remember my piano teacher, I don't remember her name but I remember how she looked, how much she loved me and I still have her two teddy bears that she gifted me on my last day of her class before I returnred to India.
-![Img](/assets/images/10603362-543320639134456-1106143467403583185-n.jpg  "Img"){:class="img-responsive"}
+![Img](/assets/images/10603362_543320639134456_1106143467403583185_n.jpg  "Img"){:class="img-responsive"}
 ![Img](/assets/images/1959290_446261842173670_1527204292_n.jpg  "Img"){:class="img-responsive"}
 
 
