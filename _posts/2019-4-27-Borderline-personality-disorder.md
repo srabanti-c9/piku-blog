@@ -16,7 +16,7 @@ I have been given a temporary diagonosis of borderline personality. The thing ab
 I am going to put some information on Borderline personality disorder sourced from the internet over here.
 
 
-Overview:
+## Overview:
 
 
 Borderline personality disorder is a mental health disorder that impacts the way you think and feel about yourself and others, causing problems functioning in everyday life. It includes a pattern of unstable intense relationships, distorted self-image, extreme emotions and impulsiveness.
@@ -30,7 +30,7 @@ If you have borderline personality disorder, don't get discouraged. Many people 
 My pov: yes, living with it is difficult but it is not impossible. 
 
 
-Symptoms:
+## Symptoms:
 
 Borderline personality disorder affects how you feel about yourself, how you relate to others and how you behave.
 
