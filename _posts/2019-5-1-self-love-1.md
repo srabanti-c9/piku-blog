@@ -21,6 +21,8 @@ I have beenn struggling with body image ever since I remember. Growing up in Sou
 
  Things had improved for me when I changed my school to an international one. But I was always this dark Indian kid. I had no friends growing up I was always this wanted foreigner in the housing complex I lived in. The only time I felt like myself was when I was busy with the computer or in my piano class. I was the youngest student there and all the elder students adored me. I still remember my piano teacher, I don't remember her name but I remember how she looked, how much she loved me and I still have her two teddy bears that she gifted me on my last day of her class before I returnred to India.
 ![Img](/assets/images/10603362_543320639134456_1106143467403583185_n.jpg  "Img"){:class="img-responsive"}
+
+
 ![Img](/assets/images/1959290_446261842173670_1527204292_n.jpg  "Img"){:class="img-responsive"}
 
 
@@ -36,6 +38,8 @@ Incidents like this continued for a long time. My parents' body shaming, slut sh
 It took me nine years to understand that I need to love myself that I need to love myself. 
 
 ![Img](/assets/images/15085595_932611913538658_8445468709318338081_n.jpg  "Img"){:class="img-responsive"}
+
+
 ![Img](/assets/images/45751607_1467461596720351_271735442582274048_n.jpg  "Img"){:class="img-responsive"}
 
 
