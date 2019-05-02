@@ -1,5 +1,6 @@
 ---
 title: "Learning to love myself (part 1) "
+comments: true
 categories:
   - Life
 tags:

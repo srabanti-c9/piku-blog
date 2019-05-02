@@ -106,6 +106,13 @@ defaults:
       layout: single
       author_profile: true
 
+comments:
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  disqus:
+    shortname            : "srabanti-cf"
+  utterances:
+    theme                : "github-dark"
+
 category_archive:
   type: liquid
   path: /categories/
