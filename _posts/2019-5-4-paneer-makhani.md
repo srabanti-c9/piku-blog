@@ -14,9 +14,9 @@ tags:
 
 Growing up there was this competition between my parents on who can make a better paneer dish. My mom used to make Paneer makhani and another recipe which doesn't really have a name. My dad swore by his shahi paneer. My sister disliked paneer makhani, probably cause of the honey my mom used to add but that has remained one of my favorite dishes till now.
 
-Now that I got a chance to make some paneer i decided to make this recipe. And as always there were some or the other item missing. And guess what? I didn't have BUTTER! I think the name of my blog should be constrained cooking!
+Now that I got a chance to make some paneer I decided to make this recipe. And as always there were some or the other item missing. And guess what? I didn't have BUTTER! I think the name of my blog should be constrained cooking instead!
 
-so I  made do with sunflower oil. It took me about 1 hours and 30 minutes in total.
+So I  made do with sunflower oil. It took me about 1 hours and 30 minutes in total. And this recipe can easily serve four.
 
 
 ## Recipe
