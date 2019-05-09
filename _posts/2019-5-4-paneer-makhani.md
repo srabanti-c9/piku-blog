@@ -63,7 +63,7 @@ So I  made do with sunflower oil. It took me about 1 hours and 30 minutes in tot
 
 22. Add paneer (Cut the paneer in cubes and soak it in water for 20 minutes)
 
-23. Add a cup of water.
+23. Add a cup of water and 2 tsp of sugar. You can add more if you want.
 
 24. Let it simmer for 5 minutes.
 
